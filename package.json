@@ -1,0 +1,14 @@
+{
+  "name": "node-foodcheri",
+  "version": "1.0.0",
+  "description": "Foodcheri API wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremie Zarca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
