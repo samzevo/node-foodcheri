@@ -9,7 +9,26 @@
   "author": "Jeremie Zarca",
   "license": "ISC",
   "dependencies": {
+    "async-request": "^1.2.0",
     "axios": "^0.18.0",
+    "fs": "^0.0.1-security",
     "moment": "^2.22.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/node-foodcheri.git"
+  },
+  "keywords": [
+    "foodcheri",
+    "node",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/jzarca01/node-foodcheri/issues"
+  },
+  "homepage": "https://github.com/jzarca01/node-foodcheri#readme"
 }
