@@ -11,6 +11,12 @@ const foodcheri = new Foodcheri({
 });
 ```
 
+### Enregistrement
+
+```javascript
+foodcheri.signUp({phone, last_name, email, first_name, password});
+```
+
 ### Authentification
 
 ```javascript
